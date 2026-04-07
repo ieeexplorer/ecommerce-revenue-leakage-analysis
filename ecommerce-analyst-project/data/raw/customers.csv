@@ -1,0 +1,11 @@
+customer_id,name,gender,age_group,city,signup_date
+1,Ali,Male,25-34,London,2024-01-05
+2,Sara,Female,25-34,Manchester,2024-01-10
+3,John,Male,35-44,Birmingham,2024-01-15
+4,Rita,Female,18-24,Leeds,2024-02-01
+5,Mike,Male,35-44,London,2024-02-10
+6,Pavan,Male,25-34,Glasgow,2024-02-20
+7,Nina,Female,45-54,Liverpool,2024-03-01
+8,Omar,Male,25-34,London,2024-03-05
+9,Emma,Female,35-44,Bristol,2024-03-12
+10,Liam,Male,18-24,Manchester,2024-03-18

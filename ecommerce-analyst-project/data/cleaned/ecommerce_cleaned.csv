@@ -1,0 +1,17 @@
+order_id,customer_id,order_date,product_id,quantity,price,discount,order_status,name,gender,age_group,city,signup_date,category,subcategory,brand,cost_price,payment_id,payment_method,payment_status,ship_date,delivery_date,delivery_status,region,delivery_performance,reason,revenue,cost,gross_margin,return_flag,delay_flag,order_month
+1001,1,2024-01-08,101,1,120,10,Completed,Ali,Male,25-34,London,2024-01-05,Electronics,Headphones,AudioNova,65,5001,Card,Paid,2024-01-09,2024-01-11,Delivered,South,On Time,,110,65,45,0,0,2024-01
+1002,2,2024-01-12,103,2,35,0,Completed,Sara,Female,25-34,Manchester,2024-01-10,Home,Desk Lamp,BrightNest,18,5002,PayPal,Paid,2024-01-13,2024-01-17,Delivered,North,Delayed,,70,36,34,0,1,2024-01
+1003,3,2024-01-20,104,1,95,15,Completed,John,Male,35-44,Birmingham,2024-01-15,Fashion,Sneakers,StrideX,55,5003,Card,Paid,2024-01-21,2024-01-24,Delivered,Midlands,On Time,Wrong Size,80,55,25,1,0,2024-01
+1004,1,2024-02-05,102,1,70,5,Completed,Ali,Male,25-34,London,2024-01-05,Electronics,Keyboard,KeyCraft,40,5004,Card,Paid,2024-02-06,2024-02-09,Delivered,South,On Time,,65,40,25,0,0,2024-02
+1005,4,2024-02-08,105,3,30,0,Completed,Rita,Female,18-24,Leeds,2024-02-01,Beauty,Skincare Set,GlowLab,22,5005,Wallet,Paid,2024-02-09,2024-02-14,Delivered,North,Delayed,,90,66,24,0,1,2024-02
+1006,5,2024-02-14,106,1,90,10,Completed,Mike,Male,35-44,London,2024-02-10,Home,Coffee Maker,BrewMatic,48,5006,Card,Paid,2024-02-15,2024-02-18,Delivered,South,On Time,,80,48,32,0,0,2024-02
+1007,6,2024-02-25,108,2,25,0,Completed,Pavan,Male,25-34,Glasgow,2024-02-20,Electronics,Mouse,ClickPro,15,5007,Card,Paid,2024-02-26,2024-03-01,Delivered,Scotland,On Time,,50,30,20,0,0,2024-02
+1008,7,2024-03-02,107,1,60,5,Completed,Nina,Female,45-54,Liverpool,2024-03-01,Fashion,Backpack,UrbanCarry,30,5008,PayPal,Paid,2024-03-03,2024-03-09,Delivered,North,Delayed,,55,30,25,0,1,2024-03
+1009,8,2024-03-10,101,1,120,20,Completed,Omar,Male,25-34,London,2024-03-05,Electronics,Headphones,AudioNova,65,5009,Card,Paid,2024-03-11,2024-03-15,Delivered,South,On Time,Changed Mind,100,65,35,1,0,2024-03
+1010,9,2024-03-17,104,1,95,0,Cancelled,Emma,Female,35-44,Bristol,2024-03-12,Fashion,Sneakers,StrideX,55,5010,Card,Refunded,2024-03-18,,Cancelled,South,Cancelled,,95,55,40,0,0,2024-03
+1011,10,2024-03-22,103,1,35,0,Completed,Liam,Male,18-24,Manchester,2024-03-18,Home,Desk Lamp,BrightNest,18,5011,Wallet,Paid,2024-03-23,2024-03-28,Delivered,North,Delayed,,35,18,17,0,1,2024-03
+1012,2,2024-04-01,105,2,30,5,Completed,Sara,Female,25-34,Manchester,2024-01-10,Beauty,Skincare Set,GlowLab,22,5012,PayPal,Paid,2024-04-02,2024-04-05,Delivered,North,On Time,,55,44,11,0,0,2024-04
+1013,3,2024-04-07,102,1,70,0,Completed,John,Male,35-44,Birmingham,2024-01-15,Electronics,Keyboard,KeyCraft,40,5013,Card,Paid,2024-04-08,2024-04-12,Delivered,Midlands,On Time,,70,40,30,0,0,2024-04
+1014,5,2024-04-18,106,1,90,15,Completed,Mike,Male,35-44,London,2024-02-10,Home,Coffee Maker,BrewMatic,48,5014,Card,Paid,2024-04-19,2024-04-26,Delivered,South,Delayed,Defective,75,48,27,1,1,2024-04
+1015,1,2024-05-01,107,1,60,0,Completed,Ali,Male,25-34,London,2024-01-05,Fashion,Backpack,UrbanCarry,30,5015,Card,Paid,2024-05-02,2024-05-06,Delivered,South,On Time,,60,30,30,0,0,2024-05
+1016,8,2024-05-12,101,1,120,0,Completed,Omar,Male,25-34,London,2024-03-05,Electronics,Headphones,AudioNova,65,5016,PayPal,Paid,2024-05-13,2024-05-17,Delivered,South,On Time,,120,65,55,0,0,2024-05

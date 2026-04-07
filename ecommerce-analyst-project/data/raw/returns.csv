@@ -1,0 +1,4 @@
+return_id,order_id,return_date,reason
+9001,1003,2024-01-28,Wrong Size
+9002,1009,2024-03-18,Changed Mind
+9003,1014,2024-04-25,Defective

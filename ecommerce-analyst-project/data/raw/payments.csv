@@ -1,0 +1,17 @@
+payment_id,order_id,payment_method,payment_status
+5001,1001,Card,Paid
+5002,1002,PayPal,Paid
+5003,1003,Card,Paid
+5004,1004,Card,Paid
+5005,1005,Wallet,Paid
+5006,1006,Card,Paid
+5007,1007,Card,Paid
+5008,1008,PayPal,Paid
+5009,1009,Card,Paid
+5010,1010,Card,Refunded
+5011,1011,Wallet,Paid
+5012,1012,PayPal,Paid
+5013,1013,Card,Paid
+5014,1014,Card,Paid
+5015,1015,Card,Paid
+5016,1016,PayPal,Paid
